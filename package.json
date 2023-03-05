@@ -1,0 +1,15 @@
+{
+  "name": "example",
+  "license": "UNLICENSED",
+  "scripts": {
+    "codegen": "anchor-indexer codegen",
+    "build": "anchor-indexer build",
+    "deploy": "anchor-indexer deploy counter",
+    "create": "anchor-indexer create counter devnet",
+    "remove": "anchor-indexer remove"
+  },
+  "dependencies": {
+    "@anchor-indexer/cli": "latest",
+    "@anchor-indexer/ts": "latest"
+  }
+}
