@@ -6,7 +6,7 @@
     "build": "anchor-indexer build",
     "deploy": "anchor-indexer deploy counter",
     "create": "anchor-indexer create counter devnet",
-    "remove": "anchor-indexer remove"
+    "remove": "anchor-indexer remove counter"
   },
   "dependencies": {
     "@anchor-indexer/cli": "latest",
