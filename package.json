@@ -1,6 +1,6 @@
 {
   "name": "example",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "codegen": "anchor-indexer codegen",
     "build": "anchor-indexer build",
